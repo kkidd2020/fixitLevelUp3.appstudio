@@ -6,4 +6,3 @@ btnToCarLoan.onclick=function(){
 btnToHomeLoan.onclick=function(){
   ChangeForm(homeLoan)
 }
-sdfafassdf

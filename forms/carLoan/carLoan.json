@@ -9,7 +9,71 @@
   "borderWidth": "",
   "cached_js": null,
   "cached_js_script_hash": null,
-  "children": [],
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "carLoan",
+        "Elements",
+        "inptPrinciple.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "carLoan",
+        "Elements",
+        "inptInterest.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "carLoan",
+        "Elements",
+        "inptMonths.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "carLoan",
+        "Elements",
+        "btnCalculate.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "carLoan",
+        "Elements",
+        "lblPayment.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "carLoan",
+        "Elements",
+        "btnTryAgain.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "carLoan",
+        "Elements",
+        "btnGoHome.json"
+      ]
+    }
+  ],
   "class": "",
   "designHeight": 0,
   "designWidth": 0,
