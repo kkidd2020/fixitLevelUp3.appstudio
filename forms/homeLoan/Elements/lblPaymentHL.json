@@ -17,9 +17,9 @@
   "fontWeight": "",
   "height": "auto",
   "hidden": "",
-  "id": "lblPayment",
+  "id": "lblPaymentHL",
   "labelStyle": "text",
-  "left": 124,
+  "left": 120,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 398,
-  "value": "",
+  "top": 405,
+  "value": "label",
   "width": "auto"
 }
